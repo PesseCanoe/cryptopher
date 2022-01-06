@@ -1,2 +1,0 @@
-# cryptopher
-Cryptocurrency Strategy Analysis
