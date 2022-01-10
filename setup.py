@@ -10,7 +10,7 @@ setup_info = dict(
     author='Cryptopher',
     author_email='cryptopher.trader@gmail.com',
     url='https://github.com/PesseCanoe/cryptopher',
-    download_url='',
+    download_url='https://github.com/PesseCanoe/cryptopher/archive/v0_0_0.tar.gz',
     description = 'Cryptopher library',
     long_description = open('README.rst', 'r', encoding='utf-8').read(),
     long_description_content_type = 'text/markdown',
